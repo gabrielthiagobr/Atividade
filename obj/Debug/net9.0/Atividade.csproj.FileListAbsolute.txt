@@ -1,0 +1,4 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Programação\UPPER\AtividadeUPPER\Atividade\Atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\Programação\UPPER\AtividadeUPPER\Atividade\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Programação\UPPER\AtividadeUPPER\Atividade\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Programação\UPPER\AtividadeUPPER\Atividade\Atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
